@@ -1,6 +1,6 @@
 # v-player
 
-> 基于vue的video播放器组件
+> 一个基于vue的video播放器组件
 
 ## Build Setup
 
