@@ -1,20 +1,23 @@
 {
   "name": "vv-player",
-  "description": "基于vue的video播放器组件",
-  "version": "1.0.4",
+  "description": "基于vue2.0+的video播放器组件",
+  "version": "1.0.6",
   "author": "luqihao",
   "license": "MIT",
   "private": false,
   "main": "./dist/vv-player.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/luqihao/vue-h5-video-player"
+    "url": "https://github.com/luqihao/vv-player"
   },
   "keywords": [
     "vue",
     "video",
     "vue-video",
-    "video-player"
+    "video-player",
+    "vue-video-player",
+    "h5-video",
+    "h5-video-player"
   ],
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
