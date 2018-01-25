@@ -25,7 +25,7 @@ demo地址：https://luqihao.github.io/vue-h5-video-player/dist
 </script>
 ```
 
-**2. 接受参数：**
+**2. props：**
 
 | 参数名 | 描述 | 默认 |
 | :-------- | --------:| --------:|
@@ -44,7 +44,7 @@ demo地址：https://luqihao.github.io/vue-h5-video-player/dist
 | Opera | √ |
 | safari | √ |
 
-**4. 图片展示
+**4. 图片展示**
 
 ![vv-player](https://luqihao.github.io/vue-h5-video-player/dist/demo.png)
 
